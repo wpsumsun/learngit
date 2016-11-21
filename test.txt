@@ -1,1 +1,2 @@
-Git tracks changes of files.在家修改的
+Git tracks changes of files.
+work in home
